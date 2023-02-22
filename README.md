@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-The Repository consists of certain NLP related tasks.
+The Repository contains assignments submitted for the course Machine Learning for Natural Language Processing.
